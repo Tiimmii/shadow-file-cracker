@@ -3,7 +3,7 @@ from itertools import permutations
 import sys
 from time import time
 
-filename = "shadow"
+filename = "shadow (1)"
 
 start = time()
 
